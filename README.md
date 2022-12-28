@@ -14,7 +14,7 @@ colcon build
 timeout 10 ros2 launch mypkg talk_listen.launch.py
 ```
 timeout の後の数字は秒数なので数字を変えれば実行される時間が変わります 
-## 必要な環境
+## 必要なソフトウェア
 * ROS2
 ## テスト環境
 * Ubuntu 22.04 LTS
