@@ -17,7 +17,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='Misaki Sekitori',
-    maintainer_email='misakisekitori@gmail.com',
+    maintainer_email='s21c1069sh@s.chibakoudai.jp',
     description='a package for practice',
     license='BSD-3-Clause',
     tests_require=['pytest'],
