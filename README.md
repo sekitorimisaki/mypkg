@@ -1,18 +1,15 @@
 # mypkg
-ロボットシステム学用の練習用リポジトリ
-ROS2のパッケージ
+* ロボットシステム学用の練習用リポジトリ
+* ROS2のパッケージ
 
 # ダウンロード方法          
 '''
 git clone https://github.com/sekitorimisaki/mypkg.git
 colcon build
-
 '''
 ## 実行方法
 '''
-
 timeout 10 ros2 launch mypkg talk_listen.launch.py
-
 '''
 timeout の後の数字は秒数なので数字を変えれば実行される時間が変わります 
 ## 必要なソフトウェア
