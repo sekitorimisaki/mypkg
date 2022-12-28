@@ -1,3 +1,4 @@
+[![test](https://github.com/sekitorimisaki/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/sekitorimisaki/mypkg/actions/workflows/test.yml)
 # mypkg
 * ロボットシステム学用の練習用リポジトリ
 * ROS2のパッケージ
