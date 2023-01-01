@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2022 Misaki Sekitori
+# SPDX-License-Identifier: BSD-3-Clause
 #!/bin/bash
 
 dir=~
