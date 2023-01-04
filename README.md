@@ -26,7 +26,6 @@ ros2 launch mypkg talk_listen.launch.py
 ・
 ・
 ```
-このように数字が１ずつカウントされたものが出てきます．
 ## 必要なソフトウェア
 * ROS2
 ## テスト環境
