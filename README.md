@@ -7,7 +7,6 @@
 # インストール，ビルド          
 ```
 git clone https://github.com/sekitorimisaki/mypkg.git
-colcon build
 ```
 ## 実行方法と結果
 ```
