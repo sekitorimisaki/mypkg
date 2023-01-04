@@ -12,7 +12,7 @@ colcon build
 ## 実行方法と結果
 ```
 ros2 launch mypkg talk_listen.launch.py
-
+```
 * 実行結果
 ```
 [listener-2] [INFO] [1672576645.404412479] [listener]: Listen: 0
