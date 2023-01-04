@@ -11,9 +11,8 @@ colcon build
 ```
 ## 実行方法と結果
 ```
-timeout 10 ros2 launch mypkg talk_listen.launch.py
-```
-timeout の後の数字は秒数なので数字を変えれば実行される時間が変わります
+ros2 launch mypkg talk_listen.launch.py
+
 * 実行結果
 ```
 [listener-2] [INFO] [1672576645.404412479] [listener]: Listen: 0
